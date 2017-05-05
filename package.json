@@ -1,8 +1,26 @@
 {
-  "name": "github-cards",
-  "repo": "lepture/github-cards",
-  "version": "1.0.2",
-  "files": {
-    "basePath": "jsdelivr"
-  }
+    "name": "github-card",
+    "description": "The unofficial GitHub Cards. Card for your GitHub profile, card for your GitHub repositories. ",
+    "version": "1.0.0",
+    "keywords": [
+        "github",
+        "card"
+    ],
+    "maintainers": [{
+        "name": "Fun Ilrys",
+        "email": "contact@funilrys.com",
+        "web": "https://github.com/funilrys"
+    }],
+    "dependencies": {
+        "clean-css-cli": "",
+        "uglifyjs": ""
+    },
+    "bugs": {
+        "web": "https://github.com/funilrys/github-cards/issues/new"
+    },
+    "repository": [{
+        "type": "git",
+        "url": "https://github.com/funilrys/github-cards.git"
+    }],
+    "license": "BSD-3-Clause"
 }
